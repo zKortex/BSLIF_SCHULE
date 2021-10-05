@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj": {}
+    "/Users/kilian/Documents/repo/BSLIF_SCHULE/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj": {}
   },
   "projects": {
-    "/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj": {
+    "/Users/kilian/Documents/repo/BSLIF_SCHULE/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj",
+        "projectUniqueName": "/Users/kilian/Documents/repo/BSLIF_SCHULE/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj",
         "projectName": "AWPP_05_10_2021",
-        "projectPath": "/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj",
+        "projectPath": "/Users/kilian/Documents/repo/BSLIF_SCHULE/AWPP_05_10_2021/AWPP_05_10_2021/AWPP_05_10_2021.csproj",
         "packagesPath": "/Users/kilian/.nuget/packages/",
-        "outputPath": "/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/",
+        "outputPath": "/Users/kilian/Documents/repo/BSLIF_SCHULE/AWPP_05_10_2021/AWPP_05_10_2021/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kilian/.config/NuGet/NuGet.Config"

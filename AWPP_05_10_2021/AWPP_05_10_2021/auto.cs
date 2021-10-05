@@ -27,6 +27,8 @@ namespace AWPP_05_10_2021
         private int iBaujahr;
         private int iGewicht;
         private double dTankstand;
+        private double dGeschwindigkeit;
+        private bool bgestartet;
 
         public void tanken(double Menge)
         {
@@ -49,16 +51,27 @@ namespace AWPP_05_10_2021
          }
 
 
-        void beschleunigen(int Menge)
+        public void beschleunigen()
+        {
+            bgestartet = true;
+            dGeschwindigkeit++;
+            dTankstand = dTankstand - 0.1;
+
+            if (dTankstand == 0)
             {
-
+                dGeschwindigkeit--;
+                if (dGeschwindigkeit == 0)
+                {
+                    bgestartet = false;
+                }
             }
+        }
 
 
-            void bremsen()
-            {
+        public void bremsen()
+        {
 
-            }
+        }
         
     }
 }
