@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AWPP_05_10_2021/1.0.0": {
+        "runtime": {
+          "AWPP_05_10_2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWPP_05_10_2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

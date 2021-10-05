@@ -1,0 +1,15 @@
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/bin/Debug/net5.0/AWPP_05_10_2021.deps.json
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/bin/Debug/net5.0/AWPP_05_10_2021.runtimeconfig.json
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/bin/Debug/net5.0/AWPP_05_10_2021.runtimeconfig.dev.json
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/bin/Debug/net5.0/AWPP_05_10_2021.dll
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/bin/Debug/net5.0/ref/AWPP_05_10_2021.dll
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/bin/Debug/net5.0/AWPP_05_10_2021.pdb
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.csproj.AssemblyReference.cache
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.AssemblyInfoInputs.cache
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.AssemblyInfo.cs
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.csproj.CoreCompileInputs.cache
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.dll
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/ref/AWPP_05_10_2021.dll
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.pdb
+/Users/kilian/Projects/AWPP_05_10_2021/AWPP_05_10_2021/obj/Debug/net5.0/AWPP_05_10_2021.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{427F36A0-5A4F-44AE-AB4B-4836DB617EC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AWPP_05_10_2021/auto.cs">
+    <Files>
+      <File FileName="AWPP_05_10_2021/Program.cs" Line="14" Column="42" />
+      <File FileName="AWPP_05_10_2021/EmptyClass.cs" Line="49" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AWPP_05_10_2021" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AWPP__05__10__2021 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
