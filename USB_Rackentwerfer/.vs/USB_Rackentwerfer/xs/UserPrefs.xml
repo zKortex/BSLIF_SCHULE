@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F3C356ED-158F-4132-886F-AFECE72EE3C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="USB_Rackentwerfer/Werfer.cs">
+    <Files>
+      <File FileName="USB_Rackentwerfer/Program.cs" Line="53" Column="86" />
+      <File FileName="USB_Rackentwerfer/Werfer.cs" Line="8" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="USB_Rackentwerfer" expanded="True">
+            <Node name="USB_Rackentwerfer" expanded="True">
+              <Node name="Werfer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.USB__Rackentwerfer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

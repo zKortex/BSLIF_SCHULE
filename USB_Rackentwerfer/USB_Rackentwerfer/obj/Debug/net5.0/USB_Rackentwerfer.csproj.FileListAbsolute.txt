@@ -1,0 +1,15 @@
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.csproj.AssemblyReference.cache
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.AssemblyInfoInputs.cache
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.AssemblyInfo.cs
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.csproj.CoreCompileInputs.cache
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/bin/Debug/net5.0/USB_Rackentwerfer.deps.json
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/bin/Debug/net5.0/USB_Rackentwerfer.runtimeconfig.json
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/bin/Debug/net5.0/USB_Rackentwerfer.runtimeconfig.dev.json
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/bin/Debug/net5.0/USB_Rackentwerfer.dll
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/bin/Debug/net5.0/ref/USB_Rackentwerfer.dll
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/bin/Debug/net5.0/USB_Rackentwerfer.pdb
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.dll
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/ref/USB_Rackentwerfer.dll
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.pdb
+/Users/kilian/Documents/repo/BSLIF_SCHULE/USB_Rackentwerfer/USB_Rackentwerfer/obj/Debug/net5.0/USB_Rackentwerfer.genruntimeconfig.cache
