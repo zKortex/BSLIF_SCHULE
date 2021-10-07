@@ -1,18 +1,38 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace AWPP_05_10_2021
+namespace Autoprojekt
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // auto FordFocus = new auto(100,100,100,100,100);
-            auto FordFocus = new auto();
+            bool bAutoGestartet1;
+            bool bAutoGestartet2;
+            Auto FordFocus = new Auto();
             FordFocus.tanken(5.0);
-            FordFocus.pflegen(1000);
-            
-            Console.WriteLine(FordFocus.starten());
-            Console.Read();
+            FordFocus.pflegen(1);
+            bAutoGestartet1 = FordFocus.starten();
+            if (bAutoGestartet1)
+            {
+                Console.WriteLine("Auto ist gestartet");
+            }
+            else
+            {
+                Console.WriteLine("Auto ist nicht gestartet");
+            }
+            FordFocus.beschleunigen();
+            Console.WriteLine("Die Geschwindigkeit beträgt: " + FordFocus.getGeschwindigkeit() + " km/h");
+            FordFocus.beschleunigen();
+            FordFocus.beschleunigen();
+            FordFocus.beschleunigen();
+            FordFocus.beschleunigen();
+            FordFocus.beschleunigen();
+            Console.WriteLine("Die Geschwindigkeit beträgt: " + FordFocus.getGeschwindigkeit() + " km/h");
+            Console.ReadKey();
         }
     }
 }

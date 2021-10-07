@@ -1,77 +1,67 @@
 ﻿using System;
-namespace AWPP_05_10_2021
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Autoprojekt
 {
-    class auto
+    class Auto
     {
-
-        /*
-           double dLeistung;
-           double dKilometerstand;
-           int iBaujahr;
-           int iGewicht;
-           double dTankstand;
-
-           public auto(double Leistung, double kilometerstand,int Baujahr, int Gewicht, double Tankstand)
-           {
-               dKilometerstand = kilometerstand;
-               dLeistung = Leistung;
-               iBaujahr = Baujahr;
-               iGewicht = Gewicht;
-               dTankstand = Tankstand;
-           }
-        */
-
-
         private double dLeistung;
         private double dKilometerstand;
         private int iBaujahr;
         private int iGewicht;
-        private double dTankstand;
-        private double dGeschwindigkeit;
-        private bool bgestartet;
+        private double dTankfuellstand = 0;
+        private double dGeschwindigkeit = 0;
+        private bool bLaeuft = false;
+
 
         public void tanken(double Menge)
         {
-            dTankstand = dTankstand + Menge;
-            pflegen(1000);
+            dTankfuellstand = dTankfuellstand + Menge;
+            pflegen(1);
         }
 
-         public void pflegen(int Dauer)
-         {
+        public void pflegen(int Dauer)
+        {
+        }
 
-         }
-
-         public bool starten()
-         {
-            if (dTankstand == 0)
+        public bool starten()
+        {
+            bool bStartet = true;
+            if (dTankfuellstand == 0)
             {
-                return false;
+                bStartet = false;
             }
-            return true;
-         }
-
+            else
+            {
+                bLaeuft = true;
+            }
+            return bStartet;
+        }
 
         public void beschleunigen()
         {
-            bgestartet = true;
-            dGeschwindigkeit++;
-            dTankstand = dTankstand - 0.1;
-
-            if (dTankstand == 0)
+            if (bLaeuft == true)
             {
-                dGeschwindigkeit--;
-                if (dGeschwindigkeit == 0)
+                dGeschwindigkeit++;
+                dTankfuellstand = dTankfuellstand - 0.1;
+                if (dTankfuellstand == 0)
                 {
-                    bgestartet = false;
+                    bLaeuft = false;
                 }
             }
         }
 
-
         public void bremsen()
         {
-
+            dGeschwindigkeit--;
         }
-        
+
+        public double getGeschwindigkeit()
+        {
+            return dGeschwindigkeit;
+        }
     }
 }

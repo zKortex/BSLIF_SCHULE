@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{427F36A0-5A4F-44AE-AB4B-4836DB617EC4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AWPP_05_10_2021/auto.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AWPP_05_10_2021/Program.cs">
     <Files>
-      <File FileName="AWPP_05_10_2021/Program.cs" Line="2" Column="1" />
-      <File FileName="AWPP_05_10_2021/auto.cs" Line="78" Column="1" />
+      <File FileName="AWPP_05_10_2021/Program.cs" Line="8" Column="2" />
+      <File FileName="AWPP_05_10_2021/auto.cs" Line="68" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AWPP_05_10_2021" expanded="True">
             <Node name="AWPP_05_10_2021" expanded="True">
-              <Node name="auto.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
